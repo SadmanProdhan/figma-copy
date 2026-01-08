@@ -1,0 +1,43 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-color: antiquewhite;
+    width: 1140px;
+    height: 65px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 51px;
+
+}
+.header-left{
+    
+}
+.header div h2{
+    padding: 0;
+    margin: 0;
+font-size: 45px;
+    font-weight: bold;
+}
+.header div h2 span{
+    color: #FD6E0A;
+}
+
+.header-right{
+    width: 390px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header div p{
+    color: #474747;
+    font-size: 20px;
+}
+.button{
+    background-color: #FD6E0A;
+    color: white;
+    padding: 18px 36px ;
+    border-radius: 5px;
+}
